@@ -9,6 +9,12 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/raphael-zoega-cali-gomes)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the_dino460/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/dino460)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/dino460)
+[![GitHub](https://img.shields.io/github/followers/dino460?label=follow&style=social)](https://github.com/dino460)
+
 ---
 ### My Skills, Feats and Traits
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dino460&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
@@ -57,17 +63,11 @@
 </pre> <img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=dino460&repo=Synchronicity&theme=dark">
 <p><br/><br/><br/><br/><br/></p>
 
-<!--<img align='center' src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
--->
-## Social
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/raphael-zoega-cali-gomes)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the_dino460/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/dino460)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/dino460)
-[![GitHub](https://img.shields.io/github/followers/dino460?label=follow&style=social)](https://github.com/dino460)
-
-<!-- [![Gmail Badge](https://img.shields.io/badge/-raphael.z.cali@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphael.z.cali@gmail.com)](mailto:raphael.z.cali@gmail.com) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dino460/dino460/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dino460/dino460/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!-- PROFILE VISITOR COUNT -->
 <div align="center">
@@ -80,9 +80,3 @@
         alt="Número de visitantes no perfil"
     />
 </p>
-
-<!--
-
-
-
--->
