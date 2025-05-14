@@ -17,6 +17,7 @@
 
 ---
 ### My Skills, Feats and Traits
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dino460&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -51,7 +52,6 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=dino460&repo=scheduled-npc-interaction-system&theme=dark">
 <pre align='left'>
 💻 I am developing my skills as a Game Developer
 📚 I am currently studying Computer Science at USP
@@ -60,14 +60,20 @@
 🌱 Focusing on my graduation and learning new things
 🌟 Main languages: C++, Java, Rust
 🚩 Interested in Game development
-</pre> <img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=dino460&repo=Synchronicity&theme=dark">
-<p><br/><br/><br/><br/><br/></p>
+</pre>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dino460/dino460/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dino460/dino460/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div align="center">
+  
+[![Sychronicity](https://github-readme-stats.vercel.app/api/pin/?username=dino460&repo=Synchronicity&theme=dark)](https://github.com/dino460/Synchronicity) 
+
+[![SNIS](https://github-readme-stats.vercel.app/api/pin/?username=dino460&repo=scheduled-npc-interaction-system&theme=dark)](https://github.com/dino460/scheduled-npc-interaction-system) [![Average Calculator](https://github-readme-stats.vercel.app/api/pin/?username=dino460&repo=Average-Calculator&theme=dark)](https://github.com/dino460/Average-Calculator)
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dino460/dino460/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dino460/dino460/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</div>
 
 <!-- PROFILE VISITOR COUNT -->
 <div align="center">
