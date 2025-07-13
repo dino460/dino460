@@ -77,7 +77,7 @@
   </picture>
 </div>
 
-<!-- PROFILE VISITOR COUNT -->
+<!-- PROFILE VISITOR COUNT 
 <div align="center">
     <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
@@ -87,4 +87,4 @@
         src="https://profile-counter.glitch.me/dino460/count.svg"    
         alt="Número de visitantes no perfil"
     />
-</p>
+</p>-->
