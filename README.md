@@ -56,7 +56,7 @@
 💻 I am developing my skills as a Game Developer
 📚 I am currently studying Computer Science at USP
 📝 I have a strong interest in making new games
-🔭 Working on my own game and on a gym full-stack webapp
+🔭 Working on my own game, Synchronicity
 🌱 Focusing on my graduation and learning new things
 🌟 Main languages: C++, Java, Rust
 🚩 Interested in Game development
