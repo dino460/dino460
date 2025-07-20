@@ -11,7 +11,6 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/raphael-zoega-cali-gomes)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the_dino460/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/dino460)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/dino460)
 [![GitHub](https://img.shields.io/github/followers/dino460?label=follow&style=social)](https://github.com/dino460)
 
@@ -78,10 +77,14 @@
 </div>
 
 ---
-
+### Support Me
 <!-- Donations -->
 <div align="center">
 <a href='https://ko-fi.com/M4M51HT4LB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<div align="center">
+<a href="https://www.patreon.com/dino460_dev" target='_blank'><img height='36' style='border:0px;height:36px;' src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" border='0' alt='Support Me at patreon.com' /></a>
 </div>
 
 <!-- PROFILE VISITOR COUNT 
