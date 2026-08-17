@@ -17,7 +17,7 @@
 ---
 ### My Skills, Feats and Traits
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dino460&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
+<img align="right" src="https://github-stats-extended.vercel.app/api?username=dino460&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -64,10 +64,10 @@
 </pre>
 
 <div align="center">
-  
-[![Sychronicity](https://github-readme-stats.vercel.app/api/pin/?username=dino460&repo=Synchronicity&theme=dark)](https://github.com/dino460/Synchronicity) 
 
-[![SNIS](https://github-readme-stats.vercel.app/api/pin/?username=dino460&repo=scheduled-npc-interaction-system&theme=dark)](https://github.com/dino460/scheduled-npc-interaction-system) [![Average Calculator](https://github-readme-stats.vercel.app/api/pin/?username=dino460&repo=Average-Calculator&theme=dark)](https://github.com/dino460/Average-Calculator)
+[![Synchronicity](https://github-stats-extended.vercel.app/api/pin?username=dino460&repo=Synchronicity&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![SNIS](https://github-stats-extended.vercel.app/api/pin?username=dino460&repo=scheduled-npc-interaction-system&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Build a Computer](https://github-stats-extended.vercel.app/api/pin?username=erickoda&repo=build-a-computer&theme=dark)](https://github.com/erickoda/build-a-computer)
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dino460/dino460/output/github-contribution-grid-snake-dark.svg" />
