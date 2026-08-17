@@ -65,9 +65,10 @@
 
 <div align="center">
 
-[![Synchronicity](https://github-stats-extended.vercel.app/api/pin?username=dino460&repo=Synchronicity&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=dino460&layout=compact&hide_title=true&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&hide_title=true&langs_count=6&theme=dark" alt="Github Stats" />
 
-[![SNIS](https://github-stats-extended.vercel.app/api/pin?username=dino460&repo=scheduled-npc-interaction-system&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Build a Computer](https://github-stats-extended.vercel.app/api/pin?username=erickoda&repo=build-a-computer&theme=dark)](https://github.com/erickoda/build-a-computer)
+<img align="left" src="https://github-stats-extended.vercel.app/api/pin?username=dino460&repo=Synchronicity&theme=dark" />
+<img align="left" src="https://github-stats-extended.vercel.app/api/pin?username=erickoda&repo=build-a-computer&theme=dark" />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dino460/dino460/output/github-contribution-grid-snake-dark.svg" />
